@@ -14,7 +14,7 @@ Currently exploring **Software Engineering, Machine Learning, Deep Learning, and
 - HTML, CSS, JavaScript
 - Machine Learning, Deep Learning (Basics), Data Analysis
 - DSA, OOP, DBMS, Operating Systems, Computer Networks
-- Git, GitHub, VS Code, Jupyter Notebook, Google Colab, Postman
+- Git, GitHub, VS Code, Jupyter Notebook, Google Colab
 
 ---
 
